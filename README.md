@@ -10,4 +10,5 @@ Para iniciar seus estudos com Java, o primeiro passo é instalar o Java Developm
 
 O processo é muito simples: chegando no diretório do arquivo, basta usarmos o comando `javac <nome-arquivo>.java`. Se tudo der certo e não houver nenhum erro de compilação, será gerado um arquivo para cada classe declarada no seu arquivo. Após isso, basta rodarmos `java <nome-classe-principal>` para que o arquivo seja rodado.
 
-> Obs: na hora de rodar, não coloque .class no final, apenas o nome da classe
+> Obs¹: não são os mesmos comandos! Um deles é `javac` (compilação) e o outro é `java` (execução)
+> Obs²: na hora de rodar, não coloque .class no final, apenas o nome da classe
