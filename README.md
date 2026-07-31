@@ -12,3 +12,7 @@ O processo é muito simples: chegando no diretório do arquivo, basta usarmos o 
 
 > Obs¹: não são os mesmos comandos! Um deles é `javac` (compilação) e o outro é `java` (execução)
 > Obs²: na hora de rodar, não coloque .class no final, apenas o nome da classe
+
+## Créditos
+
+Todos os PDFs existentes aqui neste repositório são de autoria exclusiva do Prof. Flávio Luiz Coutinho (flcoutinho@usp.br).
